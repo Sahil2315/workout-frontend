@@ -7,4 +7,5 @@
 - Store User Info on the Server if User is Logged In.
 - The Mobile App should be at least Partially Operable without Internet.
 - Server Sync should be Automatically performed if Internet is Available and the User has already logged in before (Using JWT Token in LocalStorage).
- ![image](https://github.com/user-attachments/assets/4a040067-840b-48db-ad61-98d0a5968397)
+![image](https://github.com/user-attachments/assets/28d3f1e1-91b2-4a1d-843c-3d9373307510)
+
