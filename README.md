@@ -11,6 +11,7 @@
 - Server Sync
 
 ## Non Functional Requirements:
+### Note - Deepseek R1's Free Tier usually takes about 1 - 2 Minutes to completely generate the result.
 - Low Server - Client Latency
 - Low Server - AI Latency
 - UI Elements to Provide Ease of Use to the User - such as Manually Tracking the Current Workout
