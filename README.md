@@ -1,6 +1,6 @@
 # AI Assisted Workout Planning App
 
-![image](https://github.com/user-attachments/assets/28d3f1e1-91b2-4a1d-843c-3d9373307510)
+![image](https://github.com/user-attachments/assets/4ef64fd5-a1a8-4ab7-99da-4879282960ca)
 
 ## Functional Requirements:
 - Create Workout Plans on the Client's Request.
